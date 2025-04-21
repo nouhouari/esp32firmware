@@ -1,5 +1,5 @@
 {
   "version": "v1.0.0",
-  "url": "https://github.com/nouhouari/esp32firmware/releases/download/1.0.0/remote-update.ino.ino.bin",
-  "force_update": true
+  "url": "https://github.com/nouhouari/esp32firmware/releases/download/v1.0.0/firmware-v1.0.0.bin",
+  "force_update": false
 }
